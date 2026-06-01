@@ -1,0 +1,3 @@
+How to get high level EDA (like voyager or Tableau) with the low-level fine-grained control (like DDV or Plottery)? Can you make low-level tweaks and still retain high-level axes of movement? Zhicheng says can we do it with a bajillion templates? Justin suggests there might be hierarchical steps where big steps are composed of smaller ones (Parker's cartokit is thinking about this)? Zhicheng says paper title is "BigStepper", Jacob says subtitle is "but also with small steps". So "BigStepper: But Also With Small Steps". Jacob: "The Big and Little DipperStepper".
+
+Jacob calls this "Title-driven development"
