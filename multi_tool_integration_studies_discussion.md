@@ -26,7 +26,7 @@ Eric: do a longitudinal study, observe the diversity of how it's used
 
 Brian: I want a baseline, for comparison.
 
-Justin: could have them discuss their existing workflow at first, to provide a partial comparison (c.f. Pagebreaks)
+Justin: could have them discuss their existing workflow at first, to provide a partial comparison (c.f. [Pagebreaks](https://dl.acm.org/doi/full/10.1145/3706598.3713620))
 
 Eric: I think comparative questions are the wrong questions. If I have to prove my system is "better", I've lost the battle. Want to provide new possibilities and exposit those.
 
